@@ -7,7 +7,7 @@ h1{
 }
 .paint{color:rgb(5, 175, 241);
 }
-section{
+.flexible-container{
   display: flex;
   margin-bottom: 220px;
 }
