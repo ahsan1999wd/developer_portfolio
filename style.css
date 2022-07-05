@@ -9,26 +9,29 @@ h1{
 }
 section{
   display: flex;
-  margin-bottom:200px;
+  margin-bottom: 220px;
 }
 .half-width{
-  width: 50%;
+  width: 60%;
   padding-left: 3%;
+  padding-right: 3%;
 }
 .half-width img{
-  width: 65%;
+  width: 60%;
+  height:auto;
 }
 .link-button{
   text-decoration: none;
   background-image: linear-gradient(orange,tomato);
-  padding: 5px 20px;
-  color: white;
+  padding: 7px 25px;
+  color: rgb(250, 252, 253);
   font-weight: 600;
-  border-radius: 5px;
+  border-radius: 10px;
 }
 .top-banner{
   background-image: url(images/top-banner.png);
   background-repeat: no-repeat;
+  background-position: unset;
 }
 .dream-big{
   background-image: url(images/dream-bg.png);
